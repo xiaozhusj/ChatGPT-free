@@ -359,7 +359,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "恭喜你获得ChatGPT使用权限，若遇卡顿或无反应？可能是免费用户访问量太大，可获取ChatGPT**[VIP高速服务](https://shop.fenqikj.com/)**"",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
