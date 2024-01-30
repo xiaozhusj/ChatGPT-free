@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，**[点击获取访问密码](https://dh.fenqikj.com/wp-content/uploads/2024/01/saoma.png)**。",
+      : "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码,**[官网](https://dh.fenqikj.com)**，**[点击获取访问密码](https://dh.fenqikj.com/wp-content/uploads/2024/01/saoma.png)**。",
   },
   Auth: {
     Title: "需要密码",
